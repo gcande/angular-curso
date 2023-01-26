@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-cuadricula {
+    display: flex;
+    margin: 0 auto;
+    gap: 15px;
+    flex-wrap: wrap;
+    flex-grow: 4;
+}
